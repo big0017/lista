@@ -1,3 +1,6 @@
 #EXTM3U
-#EXTINF: -1 group-title="224.2.2.2", Canal 1
+#EXTINF: -1 group-title="224.2.2.2", RED UNO
 rtp://@224.2.2.2:3000
+
+#EXTINF: -1 group-title="224.2.2.2", Canal 2
+rtp://@224.2.2.2:3001
