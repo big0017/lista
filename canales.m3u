@@ -2,5 +2,5 @@
 #EXTINF: -1 group-title="224.2.2.2", RED UNO
 rtp://@224.2.2.2:3000
 
-#EXTINF: -1 group-title="224.2.2.2", Canal 2
+#EXTINF: -1 group-title="224.2.2.2", Bolivision HD
 rtp://@224.2.2.2:3001
