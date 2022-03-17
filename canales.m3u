@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF: -1 group-title="224.2.2.2", Canal 1
+udp://@224.2.2.2:3000
+
+#EXTINF: -1 group-title="224.2.2.2", Canal 2
+udp://@224.2.2.2:3001
